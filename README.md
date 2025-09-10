@@ -128,7 +128,9 @@ Please open a pull request with your changes and a description of the improvemen
 
 ## 📄 License
 
-This repository does not include a license by default. Consider adding one to encourage community contributions.
+This repository is licensed under the MIT License — see the `LICENSE` file for details.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
 
